@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "TODO 1",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "TODO 2",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "TODO 3",
+      "complete": false
+    }
+  ]
+}
